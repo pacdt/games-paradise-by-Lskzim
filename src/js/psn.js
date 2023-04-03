@@ -4,8 +4,8 @@ let jogos = [
         poster: "https://img.elo7.com.br/product/main/38C078F/poster-adesivo-god-of-war-42-5x60cm-desenho.jpg",
     },
     {
-        nome: "God Of War",
-        poster: "https://img.elo7.com.br/product/main/38C078F/poster-adesivo-god-of-war-42-5x60cm-desenho.jpg",
+        nome: "The last of US",
+        poster: "https://static.gamevicio.com/imagens_itens/big/13/the-last-of-us-remastered-cover-012333.webp",
     },
     {
         nome: "God Of War",
